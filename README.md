@@ -1,4 +1,5 @@
-> 文档来自：https://www.bilibili.com/video/BV1Zy4y1K7SH。参照视频教程，略有修改。
+> 文档来自：https://www.bilibili.com/video/BV1Zy4y1K7SH
+> 参照视频教程，略有修改。
 
 # Vue3快速上手
 
